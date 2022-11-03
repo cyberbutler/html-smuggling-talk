@@ -108,7 +108,7 @@ Embedded into an HTML file
 ### In The Wild
 [NOBELIUM](https://www.microsoft.com/en-us/security/blog/2021/05/27/new-sophisticated-email-based-attack-from-nobelium/)
 
-![[Pasted image 20221102101157.png]]
+![Pasted image 20221102101157.png](/Presentations/HTML%20Smuggling/Pasted%20image%2020221102101157.png)
 
 ---
 ### Lets try it
