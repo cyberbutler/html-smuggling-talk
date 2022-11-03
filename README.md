@@ -1,4 +1,7 @@
 # HTML Smuggling
+
+The following is my presentation on HTML smuggling, if interested check out my tool [smuggle-me](https://github.com/cyberbutler/smuggle-me) for your own html smuggling mischief.
+
 ---
 ### What is it?
 A method for embedding ("smuggling") payloads into Web Pages using HTML/JavaScript to evade network security controls.
